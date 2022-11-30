@@ -1,4 +1,4 @@
-<div id="'header" aling="center">
+<div id="header" aling="center">
     <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200">
     <h1 aling="center">Hola , Soy Joshua</h1>
     <h3 aling="center">Actualmente soy un Front-End Dev en formacion</h3>
