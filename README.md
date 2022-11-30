@@ -38,4 +38,4 @@
 ---
 
 ### 📊 My Stats :
-![JoshuaRuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshRuiz&show_icons=true&theme=radical)
+![JoshuaRuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshRuizB&show_icons=true&theme=radical)
